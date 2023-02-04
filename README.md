@@ -26,5 +26,5 @@
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higor_diniz_z/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higordinizbr@gmail.com)
 
-![Snake animation](https://github.com/Higor-Diniz/Higor-Diniz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Higor-Diniz/Higor-Diniz/blob/output/github-contribution-grid-snake.svg)
 
