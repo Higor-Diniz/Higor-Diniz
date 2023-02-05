@@ -1,14 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+
 <h1 align="center">~ 👨‍💻 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👨‍💻 ~</h1>
 
 <div align="center">
-  
-### Hi everyone, my name is Higor Diniz, .Net developer and puppy lover... and Draft Punk [<img align="center" height="20" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-256.png">](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6?si=1fffa0a270a64ccd)
+  ### Hi everyone, my name is Higor Diniz, .Net developer and puppy lover... and Draft Punk ([<img align="center" height="20" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-256.png">](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6?si=1fffa0a270a64ccd))
   
 </div>
-  
 
-<br>
-<br>
+
+<br><br>
 
 
 <div align="center">
@@ -17,8 +17,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-Diniz&layout=compact&langs_count=16&theme=highcontrast)](https://github.com/Higor-Diniz/github-readme-stats)  
   
 </div>
-  
-  
+
+
 <br>
 
 
@@ -41,11 +41,10 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
-  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>  
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>  
+  <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
 ##
@@ -55,10 +54,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higordinizbr@gmail.com)
 
 
-<br><br><br><br>
+<br>
 
-<h1 align='center'></h1>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
+<img lign="center" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
 
 ![Snake animation](https://github.com/Higor-Diniz/Higor-Diniz/blob/output/github-contribution-grid-snake.svg)
