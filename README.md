@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
 
 <h1 align="center">~ 👨‍💻 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 👨‍💻 ~</h1>
 
@@ -83,10 +83,4 @@
 </div>
 
 
-
-<br>
-
-
-<img lign="center" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
-
-![Snake animation](https://github.com/Higor-Diniz/Higor-Diniz/blob/output/github-contribution-grid-snake.svg)
+<img lign="center" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
