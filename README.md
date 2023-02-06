@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
-<h1 align="center">~ 👨‍💻 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👨‍💻 ~</h1>
+<h1 align="center">~ 👨‍💻 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 👨‍💻 ~</h1>
 
 <div align="center">
   
@@ -13,22 +13,21 @@
 
 
 <div>
-  <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <h2 align="center">~ 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊 ~</h2>
   <div align="center">
-    <img align="right" alt="Pokemon-gif" height="220" style="border-radius:50px; margin-top:-30px;" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif">  
+    <img align="right" alt="Pokemon-gif" height="190" style="border-radius:50px; margin-top:-30px;" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif">  
   </div>
-  <li><b>Name:</b> Sarah</li>
-  <li><b>Fursona:</b> Snow Fox</li>
-  <li><b>Loves:</b> anime, osu, rhythm games</li>
-  <li><b>Gender:</b> she/her/Female 🏳️‍⚧️</li>
-  <li><b>Git Server</b> https://git.thicc-thighs.de</li>
-  <li><b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development</li>
-  <li><b>Working @:</b> Intave Anticheat</li>
+  <li><strong>Name:</strong> Higor Diniz B.</li>
+  <li><strong>Study:</strong> Degree in Information Systems</li>
+  <li><strong>Songs i like:</strong> Instant Crush, Yofukashi no Uta, Souvenir</li>
+  <li><strong>Loves:</strong> Games, Design Graphic, Read and Write</li>
+  <li><strong>Hobbys:</strong> Tech Stuff, UX Design, Development</li>
+  <li><strong>Working:</strong> Active</li>
   <br><br><br>
 </div>
 
 <div>
-  <h2 align="center"> 🦊 ~ Linguagens ~ 🦊 </h2>
+  <h2 align="center">~ 👾 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 👾 ~</h2>
   <div align="center"> 
   
   ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=Higor-Diniz&show_icons=true&theme=highcontrast)
@@ -38,10 +37,8 @@
 </div>
 
 
-
-
 <div align="center">
-  <h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~ </h2>
+  <h2 align="center">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
   
   ### Main technologies i use: 
   <div align="center" style="display: inline_block">  
@@ -54,7 +51,7 @@
   <img align="center" alt="VisualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   </div>
   
-  ##
+  <br>
   
   ### Main Technologies under study: 
   <div align="center" style="display: inline_block">    
@@ -70,15 +67,14 @@
 
 
 
-<h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">~ 📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 📝 ~</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://pa1.narvii.com/6918/d8f03bebeecf53c2f368276c3d0249e3cc4564d1r1-540-250_hq.gif" align="right" height="208.5px">
   </div><br>
   
 <div align="center">
   
-  <p align="center">Hewe awe some of my <br>most used s-s-sociaw things >~< xoxox</p>
-  <p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+  <p align="center" margin-top="35px">Here are the main ways to get in touch!</p>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-diniz-9917a8198/)
   [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higor_diniz_z/)
