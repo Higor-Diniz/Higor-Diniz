@@ -69,7 +69,7 @@
 
 <h2 align="center">~ 📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 📝 ~</h2>
   <div align="center">
-<img src="https://pa1.narvii.com/6918/d8f03bebeecf53c2f368276c3d0249e3cc4564d1r1-540-250_hq.gif" align="right" height="208.5px">
+<img src="https://i.pinimg.com/originals/bb/52/20/bb5220dccb70fed4d9bd101efad8476d.gif" align="right" height="170px" width="160px" >
   </div><br>
   
 <div align="center">
