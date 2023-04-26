@@ -4,7 +4,8 @@
 
 <div align="center">
   
-  ### Hi everyone, my name is Higor Diniz, .Net developer and puppy lover... and Draft Punk ([<img align="center" height="20" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-256.png">](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6?si=1fffa0a270a64ccd))
+  ### Hi everyone, my name is Higor Diniz, welcome to my profile, a little song to accompany ([<img align="center" height="20" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-256.png">](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6?si=1fffa0a270a64ccd))
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&duration=4500&pause=2000&color=E3F71A&center=true&vCenter=true&width=500&lines=.Net+developer+and+valorant+lover%F0%9F%8E%AE)
   
 </div>
 
@@ -14,9 +15,11 @@
 
 <div>
   <h2 align="center">~ 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊 ~</h2>
+  
   <div align="center">
-    <img align="right" alt="Pokemon-gif" height="190" style="border-radius:50px; margin-top:-30px;" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif">  
-  </div>
+    <img align="right" alt="Pokemon-gif" height="190" style="border-radius:50px; margin-top:-30px;" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif">      
+  </div> 
+  
   <li><strong>Name:</strong> Higor Diniz B.</li>
   <li><strong>Study:</strong> Degree in Information Systems</li>
   <li><strong>Songs i like:</strong> Instant Crush, Yofukashi no Uta, Souvenir</li>
@@ -32,10 +35,10 @@
   
   ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=Higor-Diniz&show_icons=true&theme=highcontrast)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-Diniz&layout=compact&langs_count=16&theme=highcontrast)](https://github.com/Higor-Diniz/github-readme-stats)
-    <br><br><br> 
   </div>
 </div>
 
+<br><br><br>
 
 <div align="center">
   <h2 align="center">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
@@ -63,8 +66,8 @@
   </div>
 </div>
 
-<br><br>
 
+<br><br>
 
 
 <h2 align="center">~ 📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 📝 ~</h2>
