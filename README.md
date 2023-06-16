@@ -33,8 +33,10 @@
   <h2 align="center">~ 👾 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 👾 ~</h2>
   <div align="center"> 
   
-  ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=Higor-Diniz&show_icons=true&theme=highcontrast)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-Diniz&layout=compact&langs_count=16&theme=highcontrast)](https://github.com/Higor-Diniz/github-readme-stats)
+  
+  
+  ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=Higor-Diniz&rank_icon=github&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-Diniz&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/Higor-Diniz/github-readme-stats)
   </div>
 </div>
 
